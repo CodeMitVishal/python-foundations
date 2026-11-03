@@ -153,3 +153,17 @@ Submit your solution as a PR to [github.com/VishalCodingNinja/python-foundations
 | 17 | `30`, `360`, `10950` | 2026 − 1996 = 30; 30 × 12 = 360; 30 × 365 = 10,950. | 21:03 |
 
 </details>
+
+---
+
+## ☕ Enjoyed this quiz?
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support%20us-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/the_growthclub)
+
+If this module helped you, you can support the channel:
+
+- **Buy me a coffee** at [buymeacoffee.com/the_growthclub](https://buymeacoffee.com/the_growthclub) ☕
+- **Subscribe** to [The Growth Club](https://www.youtube.com/@TheGrowthClubOfficial) on YouTube
+- **Star** this repo so others can find it
+
+Every coffee helps me keep making free Python lessons. Thank you! 🙏
