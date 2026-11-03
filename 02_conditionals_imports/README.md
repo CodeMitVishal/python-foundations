@@ -29,6 +29,10 @@ Try it yourself first, then compare with the solution.
 - Start here: [`exercises/ex02_guess_the_number.py`](../exercises/ex02_guess_the_number.py)
 - Solution: [`solutions/ex02_guess_the_number.py`](../solutions/ex02_guess_the_number.py)
 
+## Knowledge check
+
+Test yourself with the [Module 2 quiz](QUIZ.md). The answer key is at the bottom.
+
 **Next up:** [Module 3 · Lists and Loops](../03_lists_loops/README.md) →
 
 ---
