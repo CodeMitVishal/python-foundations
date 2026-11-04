@@ -28,6 +28,10 @@ Try it yourself first, then compare with the solution.
 - Start here: [`exercises/ex03_grade_book.py`](../exercises/ex03_grade_book.py)
 - Solution: [`solutions/ex03_grade_book.py`](../solutions/ex03_grade_book.py)
 
+## Knowledge check
+
+Test yourself with the [Module 3 quiz](QUIZ.md). The answer key is at the bottom.
+
 **Next up:** [Module 4 · Dictionaries, JSON, and Pip](../04_dicts_json_pip/README.md) →
 
 ---

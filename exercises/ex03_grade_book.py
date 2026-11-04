@@ -16,6 +16,10 @@ Sample run:
     Lowest: 45.0
     Passed: 4 of 5
 
+Why: this puts together everything in Module 3. You collect data into a
+list with a loop, summarise the list with built-in functions, then loop
+again to count the items that match a condition.
+
 Hint: sum(), max(), min() and len() all work on lists.
 Solution: solutions/ex03_grade_book.py
 """
