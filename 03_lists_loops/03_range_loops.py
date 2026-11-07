@@ -22,6 +22,6 @@ for month in range(1, 13):
 
 # range(len(names)) gives the positions 0, 1, 2,
 # so names[i] reads the item at each position
-names = ["Ana", "Raj", "Li"]
+names = ["Vishal", "Raj", "Li"]
 for i in range(len(names)):
     print(i, names[i])

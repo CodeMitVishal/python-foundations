@@ -105,13 +105,13 @@ print(len(movie), movie["rating"])
 
 **16.** What is printed?
 ```python
-people = [{"name": "Ana", "age": 31}, {"name": "Raj", "age": 27}]
+people = [{"name": "Vishal", "age": 31}, {"name": "Raj", "age": 27}]
 print(people[1]["name"])
 ```
 
 **17.** What is printed?
 ```python
-grades = {"ana": [90, 85], "raj": [70]}
+grades = {"vishal": [90, 85], "raj": [70]}
 grades["raj"].append(88)
 print(grades["raj"])
 ```
@@ -119,7 +119,7 @@ print(grades["raj"])
 **18.** What is printed?
 ```python
 import json
-data = json.loads('{"name": "Ana", "langs": ["Python", "SQL"]}')
+data = json.loads('{"name": "Vishal", "langs": ["Python", "SQL"]}')
 print(data["langs"][0])
 ```
 

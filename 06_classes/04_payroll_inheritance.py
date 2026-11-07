@@ -51,7 +51,7 @@ class Intern(Employee):
 
 
 acme = Company("Acme")
-acme.hire(Employee("Ana", 60000))
+acme.hire(Employee("Vishal", 60000))
 acme.hire(Manager("Li", 90000, 12000))
 acme.hire(Intern("Sam", 0))
 

@@ -76,7 +76,7 @@ Try to answer without rewatching. The answer key with video timestamps is at the
 def greet(name, greeting="Hello"):
     return f"{greeting}, {name}!"
 
-print(greet("Ana"))
+print(greet("Vishal"))
 print(greet("Raj", "Hi"))
 ```
 
@@ -115,7 +115,7 @@ print(result)
 def make_message(name):
     message = "Hello, " + name
 
-make_message("Ana")
+make_message("Vishal")
 print(message)
 ```
 
@@ -136,11 +136,11 @@ print(message)
 | 8 | C | Variables inside a function have local scope. | 2:00 |
 | 9 | B | Write once, run anywhere: shorter, no repetition, easier to test. | 0:38 |
 | 10 | C | The default `sides=6` is used when nothing is passed. | 6:23 |
-| 11 | `Hello, Ana!` then `Hi, Raj!` | The first call uses the default greeting. | 1:31 |
+| 11 | `Hello, Vishal!` then `Hi, Raj!` | The first call uses the default greeting. | 1:31 |
 | 12 | `hi` then `None` | `say_hi()` prints, but returns nothing. | 3:19 |
 | 13 | `50` | `add(2, 3)` returns `5`, then `5 * 10`. | 1:18 |
 | 14 | Replace `print(n * n)` with `return n * n`. | `print` only shows a value; `return` gives it back. | 1:18 |
-| 15 | Add `return message` and use `message = make_message("Ana")` before printing. | Use `return` to get a value out of a function's scope. | 2:00 |
+| 15 | Add `return message` and use `message = make_message("Vishal")` before printing. | Use `return` to get a value out of a function's scope. | 2:00 |
 
 </details>
 

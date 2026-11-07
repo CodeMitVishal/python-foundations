@@ -43,7 +43,7 @@ Try to answer without rewatching. The answer key with video timestamps is at the
 - C) In the code area
 - D) In a file
 
-**7. What does a variable like `ana` hold?**
+**7. What does a variable like `vishal` hold?**
 - A) A full copy of the object
 - B) A reference to the object on the heap
 - C) The object's code
@@ -105,15 +105,15 @@ class Employee:
     def monthly_pay(self):
         return self.salary / 12
 
-ana = Employee("Ana", 60000)
-print(ana.name, ana.monthly_pay())
+vishal = Employee("Vishal", 60000)
+print(vishal.name, vishal.monthly_pay())
 ```
 
 **16.** What is printed?
 ```python
-a = Employee("Ana", 60000)
+a = Employee("Vishal", 60000)
 b = a
-c = Employee("Ana", 60000)
+c = Employee("Vishal", 60000)
 b.salary = 70000
 print(a.salary, a is b, a is c)
 ```
@@ -175,7 +175,7 @@ class Manager(Employee):
 | 12 | B | Put the parent class in brackets. | 12:50 |
 | 13 | B | `super()` calls the parent's version. | 13:24 |
 | 14 | A | Redefine a method with the same name in the child. | 13:24 |
-| 15 | `Ana 5000.0` | `60000 / 12` is `5000.0`. | 0:26 |
+| 15 | `Vishal 5000.0` | `60000 / 12` is `5000.0`. | 0:26 |
 | 16 | `70000 True False` | `a` and `b` are one object; `c` is another one. | 8:02 |
 | 17 | `9000.0 True` | `96000/12 + 12000/12`; a Manager is also an Employee. | 13:18 |
 | 18 | Add `self`: `def monthly_pay(self):` | Every method gets the object as its first parameter. | 1:37 |

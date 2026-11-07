@@ -16,7 +16,7 @@ def greet(name, greeting="Hello"):
 
 
 # The body only runs when you call the function
-print(greet("Ana"))                         # Hello, Ana!  (default greeting)
+print(greet("Vishal"))                         # Hello, Vishal!  (default greeting)
 print(greet("Raj", "Hi"))                   # Hi, Raj!     (arguments by position)
 print(greet(greeting="Hey", name="Li"))     # Hey, Li!     (by name, any order)
 

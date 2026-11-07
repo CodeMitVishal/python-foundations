@@ -38,11 +38,11 @@ class SavingsAccount(BankAccount):
         self.balance += self.balance * self.rate
 
 
-ana = BankAccount("Ana", 100)
-ana.deposit(50)            # the balance is now 150
-ana.withdraw(500)          # Declined: Ana has only 150.00
+vishal = BankAccount("Vishal", 100)
+vishal.deposit(50)         # the balance is now 150
+vishal.withdraw(500)       # Declined: Vishal has only 150.00
 raj = SavingsAccount("Raj", 1000, rate=0.05)
 raj.add_interest()         # 1000 plus 5% is 1050
 # describe() works on both, because SavingsAccount inherits it
-for account in [ana, raj]:
+for account in [vishal, raj]:
     print(account.describe())

@@ -8,7 +8,7 @@ Run it:  python 04_dicts_json_pip/03_lists_and_dicts.py
 
 # A list of dictionaries: many records with the same shape
 people = [
-    {"name": "Ana", "age": 31},
+    {"name": "Vishal", "age": 31},
     {"name": "Raj", "age": 27},
 ]
 # Read nested access left to right: people[1] is Raj's dictionary,

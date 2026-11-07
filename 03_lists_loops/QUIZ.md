@@ -108,7 +108,7 @@ print(total)
 
 **16.** What is printed?
 ```python
-names = ["Ana", "Raj", "Li"]
+names = ["Vishal", "Raj", "Li"]
 for i in range(len(names)):
     print(i, names[i])
 ```
@@ -143,7 +143,7 @@ Submit your solution as a PR to [github.com/VishalCodingNinja/python-foundations
 | 13 | `[12.5, 7.25, 20]` | `append` adds 20 at the end, `remove` takes out 40.0. | 4:36 |
 | 14 | `[1, 2, 3, 4, 5]`, `[0, 2, 4, 6, 8]`, `[5, 4, 3, 2, 1]` | start/stop/step; a negative step counts down. | 19:08 |
 | 15 | `60` | 0 + 10 + 20 + 30. | 6:34 |
-| 16 | `0 Ana`, `1 Raj`, `2 Li` | `range(len(names))` gives the positions 0, 1, 2. | 19:45 |
+| 16 | `0 Vishal`, `1 Raj`, `2 Li` | `range(len(names))` gives the positions 0, 1, 2. | 19:45 |
 
 </details>
 

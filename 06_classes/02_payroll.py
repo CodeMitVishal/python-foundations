@@ -37,6 +37,6 @@ class Company:
 
 
 acme = Company("Acme")
-acme.hire(Employee("Ana", 60000))  # create an Employee and hire them in one line
+acme.hire(Employee("Vishal", 60000))  # create an Employee and hire them in one line
 acme.hire(Employee("Raj", 48000))
 print(acme.payroll())   # 9000.0, which is 5000.0 + 4000.0

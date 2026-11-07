@@ -22,8 +22,8 @@ class Employee:
 
 
 # Calling the class creates objects: two employees from one blueprint
-ana = Employee("Ana", 60000)
+vishal = Employee("Vishal", 60000)
 raj = Employee("Raj", 48000)
-print(ana.name)             # Ana: read an attribute with a dot
-print(ana.monthly_pay())    # 5000.0
+print(vishal.name)          # Vishal: read an attribute with a dot
+print(vishal.monthly_pay())  # 5000.0
 print(raj.monthly_pay())    # 4000.0: the same method, using Raj's data

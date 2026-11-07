@@ -10,7 +10,7 @@ import json
 from pathlib import Path
 
 # This looks like a dictionary, but the outer quotes make it just a str
-text = '{"name": "Ana", "langs": ["Python", "SQL"]}'
+text = '{"name": "Vishal", "langs": ["Python", "SQL"]}'
 data = json.loads(text)       # str -> dict ("loads" = load from a string)
 print(data["langs"][0])       # Python
 
