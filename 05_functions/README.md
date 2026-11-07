@@ -26,6 +26,10 @@ Try it yourself first, then compare with the solution.
 - Start here: [`exercises/ex05_temperature_converter.py`](../exercises/ex05_temperature_converter.py)
 - Solution: [`solutions/ex05_temperature_converter.py`](../solutions/ex05_temperature_converter.py)
 
+## Knowledge check
+
+Test yourself with the [Module 5 quiz](QUIZ.md). The answer key is at the bottom.
+
 **Next up:** [Module 6 · Classes and Objects](../06_classes/README.md) →
 
 ---
