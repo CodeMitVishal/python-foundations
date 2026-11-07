@@ -31,6 +31,10 @@ Try it yourself first, then compare with the solution.
 - Start here: [`exercises/ex04_word_counter.py`](../exercises/ex04_word_counter.py)
 - Solution: [`solutions/ex04_word_counter.py`](../solutions/ex04_word_counter.py)
 
+## Knowledge check
+
+Test yourself with the [Module 4 quiz](QUIZ.md). The answer key is at the bottom.
+
 **Next up:** [Module 5 · Functions](../05_functions/README.md) →
 
 ---
