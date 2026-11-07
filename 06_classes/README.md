@@ -28,6 +28,10 @@ Try it yourself first, then compare with the solution.
 - Start here: [`exercises/ex06_bank_account.py`](../exercises/ex06_bank_account.py)
 - Solution: [`solutions/ex06_bank_account.py`](../solutions/ex06_bank_account.py)
 
+## Knowledge check
+
+Test yourself with the [Module 6 quiz](QUIZ.md). The answer key is at the bottom.
+
 **Next up:** [Module 7 · Working with Files and Exceptions](../07_files_exceptions/README.md) →
 
 ---
