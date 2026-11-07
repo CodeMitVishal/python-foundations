@@ -29,6 +29,15 @@ def say_hi():
 result = say_hi()  # prints "hi", but returns nothing
 print(result)   # None
 
+
+
 # message was created inside greet(), so it only exists there (local scope).
 # This line would fail:
 # print(message)   # NameError
+
+
+def add(x, y):
+    """Return the sum of two numbers."""
+    return x + y
+
+print(add(2, 3))  # returns 5
