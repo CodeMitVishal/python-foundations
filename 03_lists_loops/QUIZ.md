@@ -119,7 +119,7 @@ for i in range(len(names)):
 
 **17. Grade book (the module exercise).** Use `range()` to ask for 5 test scores and store them in a list. Print the average (1 decimal), the highest and the lowest score, and count how many scores are 50 or more. Bonus: let the user choose how many scores to enter.
 
-Submit your solution as a PR to [github.com/VishalCodingNinja/python-foundations](https://github.com/VishalCodingNinja/python-foundations) – I'll review it!
+Submit your solution as a PR to [github.com/CodeMitVishal/python-foundations](https://github.com/CodeMitVishal/python-foundations) – I'll review it!
 
 ---
 

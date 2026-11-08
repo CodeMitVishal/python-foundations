@@ -119,7 +119,7 @@ print(type(date.today().year))
 
 **17. Guess the Number (the module exercise).** The computer picks a secret number between 1 and 10 with `random`. Ask the user for a guess, then tell them if they won or what the number was. Bonus: handle input outside the range, like `-4` or `15`.
 
-Submit your solution as a PR to [github.com/VishalCodingNinja/python-foundations](https://github.com/VishalCodingNinja/python-foundations) – I'll review it!
+Submit your solution as a PR to [github.com/CodeMitVishal/python-foundations](https://github.com/CodeMitVishal/python-foundations) – I'll review it!
 
 ---
 

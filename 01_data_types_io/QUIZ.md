@@ -125,7 +125,7 @@ days = age * 365
 
 **18. Tip calculator (the module exercise).** Ask for the bill amount, the tip percentage and how many people are paying. Print the tip, the total and each person's share, all rounded to 2 decimals.
 
-Submit your solution as a PR to [github.com/VishalCodingNinja/python-foundations](https://github.com/VishalCodingNinja/python-foundations) – I'll review it!
+Submit your solution as a PR to [github.com/CodeMitVishal/python-foundations](https://github.com/CodeMitVishal/python-foundations) – I'll review it!
 
 ---
 

@@ -47,7 +47,7 @@ python --version
 **2. Get the code.** With Git:
 
 ```bash
-git clone https://github.com/VishalCodingNinja/python-foundations.git
+git clone https://github.com/CodeMitVishal/python-foundations.git
 ```
 
 ```bash
@@ -237,7 +237,7 @@ python 04_dicts_json_pip/06_weather_api.py
 | Weather demo returns error 401 | The API key is wrong or still new. Fresh OpenWeatherMap keys can take a couple of hours to start working. |
 | A file demo created extra files | That's expected. The demos in `07_files_exceptions` only touch files they create (`list.txt`, `playground/`, `messy_folder/`). Delete them any time. |
 
-Still stuck? [Open an issue](https://github.com/VishalCodingNinja/python-foundations/issues)
+Still stuck? [Open an issue](https://github.com/CodeMitVishal/python-foundations/issues)
 with the command you ran and the full error message.
 
 ## About the host
