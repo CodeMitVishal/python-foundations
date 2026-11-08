@@ -29,6 +29,10 @@ Try it yourself first, then compare with the solution.
 - Start here: [`exercises/ex07_notes_app.py`](../exercises/ex07_notes_app.py)
 - Solution: [`solutions/ex07_notes_app.py`](../solutions/ex07_notes_app.py)
 
+## Knowledge check
+
+Test yourself with the [Module 7 quiz](QUIZ.md). The answer key is at the bottom.
+
 🎉 **That's the end of the course!** You've finished all 7 modules.
 
 ---
