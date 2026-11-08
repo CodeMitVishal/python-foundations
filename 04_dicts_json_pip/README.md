@@ -41,11 +41,11 @@ Test yourself with the [Module 4 quiz](QUIZ.md). The answer key is at the bottom
 
 ## ☕ Enjoyed this module?
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support%20us-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/the_growthclub)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support%20us-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/codemitvishal)
 
 If this module helped you, you can support the channel:
 
-- **Buy me a coffee** at [buymeacoffee.com/the_growthclub](https://buymeacoffee.com/the_growthclub) ☕
+- **Buy me a coffee** at [buymeacoffee.com/codemitvishal](https://buymeacoffee.com/codemitvishal) ☕
 - **Subscribe** to [CodeMitVishal](https://www.youtube.com/@CodeMitVishal) on YouTube
 - **Star** this repo so others can find it
 
