@@ -163,7 +163,7 @@ Submit your solution as a PR to [github.com/VishalCodingNinja/python-foundations
 If this module helped you, you can support the channel:
 
 - **Buy me a coffee** at [buymeacoffee.com/the_growthclub](https://buymeacoffee.com/the_growthclub) ☕
-- **Subscribe** to [The Growth Club](https://www.youtube.com/@TheGrowthClubOfficial) on YouTube
+- **Subscribe** to [CodeMitVishal](https://www.youtube.com/@CodeMitVishal) on YouTube
 - **Star** this repo so others can find it
 
 Every coffee helps me keep making free Python lessons. Thank you! 🙏

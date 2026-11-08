@@ -1,13 +1,13 @@
 # Python Foundations
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![YouTube: The Growth Club](https://img.shields.io/badge/YouTube-The%20Growth%20Club-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@TheGrowthClubOfficial)
+[![YouTube: CodeMitVishal](https://img.shields.io/badge/YouTube-CodeMitVishal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeMitVishal)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support%20us-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/the_growthclub)
 
 **Learn Python from zero, one runnable example at a time.**
 
 This repo holds everything from the *Python Foundations* live session on
-[The Growth Club](https://www.youtube.com/@TheGrowthClubOfficial) YouTube channel:
+[CodeMitVishal](https://www.youtube.com/@CodeMitVishal) YouTube channel:
 
 - **30 runnable demos**, one for every example in the session
 - **7 hands-on exercises**, each with a starter file and a worked solution
@@ -253,6 +253,6 @@ Azure Developer Associate · AI Transformation Leader · Certified ScrumMaster.
 
 If this session helped you:
 
-- **Subscribe** to [The Growth Club](https://www.youtube.com/@TheGrowthClubOfficial) on YouTube
+- **Subscribe** to [CodeMitVishal](https://www.youtube.com/@CodeMitVishal) on YouTube
 - **Star** this repo so others can find it
 - **Buy me a coffee** at [buymeacoffee.com/the_growthclub](https://buymeacoffee.com/the_growthclub) ☕
