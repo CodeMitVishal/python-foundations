@@ -15,6 +15,7 @@ Work through the files in this order, the same order they come up in the video.
 | Demo: writing files | [`03_writing_files.py`](03_writing_files.py) |
 | File manipulation | [`04_file_manipulation.py`](04_file_manipulation.py) |
 | Demo: file organizer | [`05_file_organizer.py`](05_file_organizer.py) |
+| Bonus: debugging (tracebacks, `breakpoint()`, VS Code) | [`06_debugging.py`](06_debugging.py) |
 
 Run any demo from the repo's root folder, for example:
 

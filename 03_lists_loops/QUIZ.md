@@ -153,6 +153,22 @@ Submit your solution as a PR to [github.com/CodeMitVishal/python-foundations](ht
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support%20us-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/codemitvishal)
 
+### Bonus – while loops, slicing, tuples and sets
+
+**B1.** What does `days[::-1]` give for `days = ["Mon", "Tue", "Wed"]`?
+
+**B2.** When do you use `while` instead of `for`?
+
+**B3.** What's the difference between `break` and `continue`?
+
+**B4.** `len(set(["a", "b", "a"]))` = ?
+
+<details><summary><b>Bonus answers</b></summary>
+
+B1: `["Wed", "Tue", "Mon"]` · B2: when you don't know in advance how many times (repeat until a condition changes) · B3: `break` leaves the loop; `continue` skips to the next round · B4: `2`. Revisit `05_while_break_continue.py` and `06_slicing_tuples_sets.py`.
+
+</details>
+
 If this module helped you, you can support the channel:
 
 - **Buy me a coffee** at [buymeacoffee.com/codemitvishal](https://buymeacoffee.com/codemitvishal) ☕

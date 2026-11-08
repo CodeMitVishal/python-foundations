@@ -84,6 +84,7 @@ order they come up in the session, so you can work through them top to bottom.
 
 | # | Module | Code | You build | Exercise |
 |---|---|---|---|---|
+| 0 | Setup: terminal, VS Code, Git & GitHub | [`00_setup_git`](00_setup_git/) | Your setup check | Your first Pull Request |
 | 1 | Data Types and Input and Output | [`01_data_types_io`](01_data_types_io/) | Tax calculator, age calculator | Tip calculator |
 | 2 | Conditionals and Imports | [`02_conditionals_imports`](02_conditionals_imports/) | Rock, paper, scissors | Guess the number |
 | 3 | Lists and Loops | [`03_lists_loops`](03_lists_loops/) | Expense totals, loan calculator | Grade book |
@@ -94,6 +95,14 @@ order they come up in the session, so you can work through them top to bottom.
 
 <details>
 <summary><b>Every lesson and the file that goes with it</b></summary>
+
+**Module 0 · Setup: terminal, VS Code, Git & GitHub**
+
+| Lesson | File |
+|---|---|
+| The terminal and VS Code | [`01_terminal_and_vscode.md`](00_setup_git/01_terminal_and_vscode.md) |
+| Git and GitHub | [`02_git_and_github.md`](00_setup_git/02_git_and_github.md) |
+| Check your setup | [`check_setup.py`](00_setup_git/check_setup.py) |
 
 **Module 1 · Data Types and Input and Output**
 
@@ -123,6 +132,8 @@ order they come up in the session, so you can work through them top to bottom.
 | Demo: sum expenses | [`02_sum_expenses.py`](03_lists_loops/02_sum_expenses.py) |
 | Loops with `range()` | [`03_range_loops.py`](03_lists_loops/03_range_loops.py) |
 | Demo: loan payment calculator | [`04_loan_calculator.py`](03_lists_loops/04_loan_calculator.py) |
+| Bonus: `while`, `break`, `continue` | [`05_while_break_continue.py`](03_lists_loops/05_while_break_continue.py) |
+| Bonus: slicing, tuples, sets | [`06_slicing_tuples_sets.py`](03_lists_loops/06_slicing_tuples_sets.py) |
 
 **Module 4 · Dictionaries, JSON, and Pip**
 
@@ -161,6 +172,7 @@ order they come up in the session, so you can work through them top to bottom.
 | Demo: writing files | [`03_writing_files.py`](07_files_exceptions/03_writing_files.py) |
 | File manipulation | [`04_file_manipulation.py`](07_files_exceptions/04_file_manipulation.py) |
 | Demo: file organizer | [`05_file_organizer.py`](07_files_exceptions/05_file_organizer.py) |
+| Bonus: debugging | [`06_debugging.py`](07_files_exceptions/06_debugging.py) |
 
 </details>
 

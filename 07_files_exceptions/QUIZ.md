@@ -160,6 +160,20 @@ with open("my_notes.txt", "w") as f:
 
 ---
 
+### Bonus – debugging
+
+**B1.** In which order do you read a traceback?
+
+**B2.** What does `f"{subtotal=}"` print when `subtotal` is 30?
+
+**B3.** Which line pauses your program so you can inspect variables?
+
+<details><summary><b>Bonus answers</b></summary>
+
+B1: from the bottom up: the last line says WHAT, the lines above say WHERE · B2: `subtotal=30` · B3: `breakpoint()` (or a red-dot breakpoint + F5 in VS Code). Revisit `06_debugging.py`.
+
+</details>
+
 If this module helped you, you can support the channel:
 
 - **Buy me a coffee** at [buymeacoffee.com/codemitvishal](https://buymeacoffee.com/codemitvishal) ☕

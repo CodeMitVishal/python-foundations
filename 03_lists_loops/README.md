@@ -14,6 +14,8 @@ Work through the files in this order, the same order they come up in the video.
 | Demo: sum expenses | [`02_sum_expenses.py`](02_sum_expenses.py) |
 | Loops with `range()` | [`03_range_loops.py`](03_range_loops.py) |
 | Demo: loan payment calculator | [`04_loan_calculator.py`](04_loan_calculator.py) |
+| Bonus: `while`, `break` and `continue` | [`05_while_break_continue.py`](05_while_break_continue.py) |
+| Bonus: slicing, tuples and sets | [`06_slicing_tuples_sets.py`](06_slicing_tuples_sets.py) |
 
 Run any demo from the repo's root folder, for example:
 
